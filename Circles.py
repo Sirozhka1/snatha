@@ -1,8 +1,6 @@
 
-from requests import get
-from requests.api import request
 
-from .. import loader, utils
+
 
 
 @loader.tds
